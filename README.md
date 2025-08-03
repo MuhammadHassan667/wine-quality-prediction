@@ -18,7 +18,7 @@ jupyter notebook wine_quality.ipynb
 ├── requirements.txt # Python dependencies
 └── feature_names.json # Model features
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadHassan667/wine-quality-prediction/blob/main/wine_quality.ipynb)
+(https://colab.research.google.com/github/MuhammadHassan667/wine-quality-prediction/blob/main/wine_quality.ipynb)
 
 ## 📜 License
 MIT © 2023 MuhammadHassan667
