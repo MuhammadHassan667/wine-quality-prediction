@@ -18,3 +18,5 @@ jupyter notebook wine_quality.ipynb
 ├── requirements.txt # Python dependencies
 └── feature_names.json # Model features
 
+## 📜 License
+MIT © 2023 MuhammadHassan667
